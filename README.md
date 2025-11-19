@@ -14,6 +14,7 @@ Focused on clean code, performance, reusable components, and pixel-perfect UI.
 
 - 🔭 Currently working on: **Modern UI frameworks & advanced TypeScript**
 - 🎨 Interested in UI/UX, animations, and component architecture
+- ❤️ Love working with **Angular Material** & **NG-ZORRO**
 - 💬 Ask me about **Angular, SCSS, JavaScript, TypeScript, Responsive Design**
 - 🌐 Portfolio & projects: **https://sajaddorary.ir**
 - 📩 Contact me on Telegram: **@sajaddorary**
@@ -36,7 +37,11 @@ Focused on clean code, performance, reusable components, and pixel-perfect UI.
 ### **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### **Design**
+<p>
+    <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### **Database**
@@ -46,14 +51,18 @@ Focused on clean code, performance, reusable components, and pixel-perfect UI.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sajaddorary&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajaddorary&layout=compact&theme=tokyonight" />
-</p>
+## 🗂️ Private Projects
+Most of my real production-level work is **private** due to contracts & company policies.  
+I currently maintain **+15 private repositories**, including:
+
+- Enterprise front-end applications  
+- UI component libraries  
+- TypeScript modules  
+- Real client & commercial web apps  
+
+Although these repositories are private, my public profile still reflects my work style, stack, and development approach.
 
 ---
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sajad-dorary-jafarpour-663660261/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
