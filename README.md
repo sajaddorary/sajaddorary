@@ -13,51 +13,35 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### **Languages**
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=jquery" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=angular" />
 </p>
 
-#### **Frameworks & Tools**
+### **Tools & Version Control**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,django,flask,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-#### **Databases & Cloud**
+### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
 ### 🌐 Social Links
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/your-profile" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/sajad-dorary-jafarpour-663660261/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/sajaddorary.ir" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="t.me/sajaddorary" target="blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
 </p>
-
----
-
-### 📝 Quote of the Day
-> “The best way to predict the future is to create it.”
-
----
-
-### 💡 Want a custom GitHub README?
-If you'd like, I can generate:
-- نسخه فارسی  
-- نسخه مینیمال  
-- نسخه حرفه‌ای‌تر با انیمیشن و گراف  
-- نسخه شخصی‌سازی‌شده بر اساس مهارت‌ها و پروژه‌های واقعی شما  
-
-فقط بگو کدام را می‌خواهی!
