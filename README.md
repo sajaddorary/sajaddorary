@@ -1,15 +1,22 @@
 <h1 align="center">Hi there 👋, I'm Sajad Jafarpour</h1>
-<h3 align="center">AI & Software Developer | Passionate about ML, Deep Learning, and Automation</h3>
+<h3 align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Lover</h3>
+
+<p align="center">
+  <a href="https://sajaddorary.ir">🌐 Website</a> •
+  <a href="https://t.me/sajaddorary">📨 Telegram</a>
+</p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **AI-driven applications & automation tools**
-- 🌱 I’m learning **Advanced NLP, LLMs, and MLOps**
-- 👨‍💻 Check out my projects here: [My GitHub Repositories](https://github.com/your-username)
-- 💬 Ask me about **Python, ML, Deep Learning, Bots, APIs**
-- 📫 How to reach me: **sajaddorary.ai@gmail.com**
-- ⚡ Fun fact: _AI won’t replace you, but someone using AI will!_
+## 🚀 About Me
+I’m a passionate **Front-End Developer** who loves building fast, modern, and user-friendly web applications.  
+Focused on clean code, performance, reusable components, and pixel-perfect UI.
+
+- 🔭 Currently working on: **Modern UI frameworks & advanced TypeScript**
+- 🎨 Interested in UI/UX, animations, and component architecture
+- 💬 Ask me about **Angular, SCSS, JavaScript, TypeScript, Responsive Design**
+- 🌐 Portfolio & projects: **https://sajaddorary.ir**
+- 📩 Contact me on Telegram: **@sajaddorary**
 
 ---
 
@@ -26,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=angular" />
 </p>
 
-### **Tools & Version Control**
+### **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -39,9 +46,23 @@
 
 ---
 
-### 🌐 Social Links
-<p align="left">
-<a href="https://www.linkedin.com/in/sajad-dorary-jafarpour-663660261/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/sajaddorary.ir" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="t.me/sajaddorary" target="blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sajaddorary&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajaddorary&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sajad-dorary-jafarpour-663660261/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/sajaddorary.ir" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="t.me/sajaddorary" target="blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+</p>
+
+---
+
+### ✨ Quote
+> “Your website is the window to your brand — make it beautiful.”
+
