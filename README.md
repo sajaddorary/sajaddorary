@@ -22,31 +22,31 @@ Focused on clean code, performance, reusable components, and pixel-perfect UI.
 ---
 
 ## 🧰 Tech Stack
-
-### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=jquery" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-### **Tools**
+### UI Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NG--ZORRO-1677FF?style=for-the-badge&logo=ant-design&logoColor=white" />
 </p>
 
-### **Design**
+### Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### **Database**
+### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -74,4 +74,6 @@ Although these repositories are private, my public profile still reflects my wor
 
 ### ✨ Quote
 > “Your website is the window to your brand — make it beautiful.”
+
+
 
