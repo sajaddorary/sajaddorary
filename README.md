@@ -53,7 +53,7 @@ Focused on clean code, performance, reusable components, and pixel-perfect UI.
 
 ## 🗂️ Private Projects
 Most of my real production-level work is **private** due to contracts & company policies.  
-I currently maintain **+15 private repositories**, including:
+I currently maintain **+10 private repositories**, including:
 
 - Enterprise front-end applications  
 - UI component libraries  
